@@ -101,8 +101,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 import pandas as pd
 
-sender_address = 'manikDtyagi@gmail.com'
-sender_pass = 'ysouxetslbdzxuir'
+sender_address = ''
+sender_pass = ''
     
 subject=f'Attendance record for {today}'
 mail_content = '''
